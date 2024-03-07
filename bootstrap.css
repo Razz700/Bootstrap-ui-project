@@ -78,7 +78,8 @@ font-weight: 600;
 #form>label,#form>input,#form1>label,#form1{
     margin: 4px;
 }
-#form,#form1{text-align: start;}
+#form,#form1{text-align: start;
+            font-size: smaller;}
 
 @media screen and (max-width:800px){
     #image-section>div{
